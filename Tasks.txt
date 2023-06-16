@@ -1,0 +1,36 @@
+
+1  . how many rolls were ordered?
+
+2   .how many unique customer orders were made? 
+
+3. how many successful orders were delivered by rach driver ?
+
+4  . how many of each type of roll was delivered?
+
+
+5  . how many Veg and Non Veg Rolls were orderd by each customer ?
+
+
+6  . what was the maximum number of rolls deliverd in a single order ?
+
+
+
+7.For each custome , how many delivered rolls had at least 1 change ans how many had no changes ?
+
+
+
+ 8   . how many rolls were delivered that had both exclusions and extras 
+
+
+
+9. what was the total number of rolls orderd for each hour of the day?
+
+  10  . what was the average time in minutes it tool for each driver to arrive at the fasoos HQ to pickup the other?
+
+11 . Is there any realtionship between the number of rolls and how long order takes to prepare?
+
+
+ 12 .what was the average distance travelled for each customer?
+
+
+ 13. what was the difference between the longest and shortest delivery Times for all orders?
